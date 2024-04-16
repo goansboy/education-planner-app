@@ -1,9 +1,4 @@
 
-
-User
-Okay I have not set up atlas tonight. For now, can you write me a readme for my commit and walk me through putting my version 2 on gitHUb
-ChatGPT
-Certainly! Let's create a comprehensive README.md for your EduPlanner project and guide you on updating your GitHub repository with your latest changes (Version 2).
 # EduPlanner
 
 EduPlanner is an educational planner application designed to interface with the Canvas API to access course information and automatically populate calendars with class due dates. Users can also manually add personal events or dates to their calendars.
