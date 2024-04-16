@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\public\\css",
+    "\\src",
+    "\\src\\config",
+    "\\src\\models",
+    "\\src\\routes",
+    "\\src\\views",
+    "\\src\\views\\pages",
+    "\\src\\views\\partials"
   ],
-  "SelectedNode": "\\package-lock.json",
+  "SelectedNode": "\\src\\routes\\calendarRoutes.js",
   "PreviewInSolutionExplorer": false
 }

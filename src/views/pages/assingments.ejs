@@ -1,0 +1,10 @@
+<%- include('../partials/header') %>
+
+<h1>Assignments for Course <%= courseId %></h1>
+<ul>
+    <% assignments.forEach(assignment => { %>
+        <li><%= assignment.name %></li>
+    <% }) %>
+</ul>
+
+<%- include('../partials/footer') %>

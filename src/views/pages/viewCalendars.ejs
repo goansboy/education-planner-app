@@ -1,0 +1,18 @@
+<%- include('../partials/header') %>
+
+<h1>View Calendars</h1>
+<ul>
+    <!-- Dynamic list example. This static list should be replaced with data from your server -->
+    <li>
+        <input type="checkbox" id="cal1" name="cal1" value="Calendar1">
+        <label for="cal1"> Calendar 1</label>
+    </li>
+    <li>
+        <input type="checkbox" id="cal2" name="cal2" value="Calendar2">
+        <label for="cal2"> Calendar 2</label>
+    </li>
+</ul>
+<button onclick="window.location.href='/'">Home Page</button>
+<button onclick="window.location.href='/edit-calendar'">Add/Edit Calendar</button>
+
+<%- include('../partials/footer') %>
