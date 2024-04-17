@@ -2,23 +2,31 @@ const express = require('express');
 const path = require('path');
 const authRoutes = require('./routes/authRoutes');
 const session = require('express-session');
-const app = express();
+const MongoStore = require('connect-mongo');
 const passport = require('passport');
 require('./config/passport')(passport);
 require('dotenv').config({ path: 'C:/Users/austi/OneDrive/Desktop/EduPlanner/.env' });
+const app = express();
 
 const connectDB = require('./config/db');
 
-console.log(path.join(__dirname, 'public'));  // This will print the absolute path used for the static files
-
 // Middlewares
+app.use((req, res, next) => {
+    res.locals.user = req.user; // req.user is defined if a user is authenticated
+    next();
+});
 app.use(express.static(path.join(__dirname,'..','public')));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+// Setup session with MongoDB storage
 app.use(session({
-    secret: 'secret', // Choose a strong secret for session encryption
+    secret: 'yourSecretKey',  // This should be an environment variable
     resave: false,
-    saveUninitialized: false
+    saveUninitialized: false,
+    store: MongoStore.create({
+        mongoUrl: process.env.MONGODB_URI,  // Ensure your MongoDB URI is sourced from environment variables
+        collectionName: 'sessions'  // This is optional and defaults to 'sessions'
+    })
 }));
 
 // Initialize passport and session

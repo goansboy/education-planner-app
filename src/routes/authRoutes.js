@@ -4,30 +4,58 @@ const User = require('../models/User');  // Import the User model correctly
 const router = express.Router();
 
 // Register route
-router.post('/register', (req, res) => {
+router.post('/register', async (req, res) => {
     const { username, password } = req.body;
-    const newUser = new User({ username, password });
-    newUser.save(err => {
-        if (err) return res.status(500).json(err);
-        res.redirect('/login');
-    });
+    try {
+        const newUser = new User({ username, password });
+        await newUser.save();
+        res.redirect('/login');  // Redirect to login page after successful registration
+    } catch (error) {
+        if (error.code === 11000) {  // Check for duplicate key error code
+            return res.status(400).render('pages/register', {
+                message: 'Username already taken. Please try another.',
+                title: 'Register - EduPlanner'
+            });
+        }
+        // Handle other types of errors
+        res.status(500).json({ message: "Error registering new user", error });
+    }
 });
+
+router.get('/register', (req, res) => {
+    res.render('pages/register', {title: 'Register'})
+})
 
 // Login route
 router.post('/login', passport.authenticate('local', {
     successRedirect: '/',
     failureRedirect: '/login',
-    failureFlash: true // Optionally enable flash messages
 }));
 
 router.get('/login', (req, res) => {
     res.render('pages/login', { title: 'Login' });  
 });
 
-// Logout route
 router.get('/logout', (req, res) => {
-    req.logout();
-    res.redirect('/');
+    req.logout(function (err) {
+        if (err) {
+            console.error('Logout failed', err);
+            return res.status(500).send('Logout failed');
+        }
+        // If there is a session, destroy it:
+        if (req.session) {
+            req.session.destroy(function (err) {
+                if (err) {
+                    console.error('Failed to destroy the session during logout', err);
+                    return res.status(500).send('Failed to destroy the session');
+                }
+                res.redirect('/'); // Redirect to the homepage or a login page after logout
+            });
+        } else {
+            res.redirect('/');
+        }
+    });
 });
+
 
 module.exports = router;

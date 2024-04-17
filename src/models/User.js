@@ -9,16 +9,14 @@ const userSchema = new mongoose.Schema({
 
 userSchema.pre('save', async function (next) {
     if (this.isModified('password') || this.isNew) {
-        this.password = await bcrypt.hash(this.password, 10);
+        this.password = await bcrypt.hash(this.password, 10); // Salting and hashing password
     }
     next();
 });
 
-userSchema.methods.comparePassword = function (candidatePassword, callback) {
-    bcrypt.compare(candidatePassword, this.password, (err, isMatch) => {
-        if (err) return callback(err);
-        callback(null, isMatch);
-    });
+// Modified to use promises instead of callbacks
+userSchema.methods.comparePassword = function (candidatePassword) {
+    return bcrypt.compare(candidatePassword, this.password);
 };
 
 module.exports = mongoose.model('User', userSchema);

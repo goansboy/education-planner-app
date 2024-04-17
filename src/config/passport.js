@@ -1,29 +1,37 @@
+// passport.js
 const LocalStrategy = require('passport-local').Strategy;
 const User = require('../models/User');
 
 module.exports = function (passport) {
-    passport.use(new LocalStrategy(
-        function (username, password, done) {
-            User.findOne({ username: username }, function (err, user) {
-                if (err) return done(err);
-                if (!user) return done(null, false, { message: 'Incorrect username.' });
+    passport.use(new LocalStrategy(async (username, password, done) => {
+        try {
+            const user = await User.findOne({ username: username });
+            if (!user) {
+                return done(null, false, { message: 'Incorrect username.' });
+            }
 
-                user.comparePassword(password, function (err, isMatch) {
-                    if (err) return done(err);
-                    if (isMatch) return done(null, user);
-                    return done(null, false, { message: 'Incorrect password.' });
-                });
-            });
+            // Using async/await with the promise returned by comparePassword
+            const isMatch = await user.comparePassword(password);
+            if (!isMatch) {
+                return done(null, false, { message: 'Incorrect password.' });
+            }
+
+            return done(null, user);
+        } catch (error) {
+            return done(error);
         }
-    ));
+    }));
 
-    passport.serializeUser(function (user, done) {
+    passport.serializeUser((user, done) => {
         done(null, user.id);
     });
 
-    passport.deserializeUser(function (id, done) {
-        User.findById(id, function (err, user) {
-            done(err, user);
-        });
+    passport.deserializeUser(async (id, done) => {
+        try {
+            const user = await User.findById(id);
+            done(null, user);
+        } catch (error) {
+            done(error, null);
+        }
     });
 };

@@ -1,7 +1,7 @@
 <%- include('../partials/header') %>
 
 <h1>Add/Edit Calendar</h1>
-<form action="#" method="post">
+<form action="/calendars" method="post"> <!-- Changed action to point to '/calendars' -->
     <label for="calName">Calendar Name:</label>
     <input type="text" id="calName" name="calName">
     <input type="submit" value="Save Calendar">
