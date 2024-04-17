@@ -90,3 +90,8 @@ footer {
         width: 90%;
     }
 }
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}
