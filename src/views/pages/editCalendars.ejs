@@ -1,11 +1,31 @@
 <%- include('../partials/header') %>
 
-<h1>Add/Edit Calendar</h1>
-<form action="/calendars" method="post"> <!-- Changed action to point to '/calendars' -->
+<h1>Add/Edit Calendars</h1>
+
+<!-- Form to add a new calendar -->
+<form action="/calendars" method="post">
     <label for="calName">Calendar Name:</label>
     <input type="text" id="calName" name="calName">
     <input type="submit" value="Save Calendar">
 </form>
+
+<!-- List existing calendars -->
+<h2>Your Calendars</h2>
+<ul>
+    <% calendars.forEach(function(calendar) { %>
+        <li>
+            <%= calendar.name %>
+            <!-- Form to set a calendar as the main calendar -->
+            <form action="/set-main-calendar" method="post">
+                <input type="hidden" name="calendarId" value="<%= calendar._id %>">
+                <input type="checkbox" name="isMain" <%= calendar.isMain ? 'checked' : '' %> onchange="this.form.submit()"> Set as main
+            </form>
+            <!-- Link to edit this specific calendar -->
+            <a href="/calendars/<%= calendar._id %>">Edit</a>
+        </li>
+    <% }); %>
+</ul>
+
 <button onclick="window.location.href='/'">Home Page</button>
 
 <%- include('../partials/footer') %>

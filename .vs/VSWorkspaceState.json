@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\css",
+    "\\public\\js",
     "\\src",
-    "\\src\\config",
     "\\src\\middleware",
     "\\src\\models",
     "\\src\\routes",
@@ -12,6 +11,6 @@
     "\\src\\views\\pages",
     "\\src\\views\\partials"
   ],
-  "SelectedNode": "\\src\\views\\pages\\editCalendars.ejs",
+  "SelectedNode": "\\src\\routes\\calendarRoutes.js",
   "PreviewInSolutionExplorer": false
 }

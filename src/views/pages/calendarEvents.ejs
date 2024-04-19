@@ -1,0 +1,16 @@
+<%- include('../partials/header') %>
+
+<h1>Events for <%= calendar.name %></h1>
+
+<ul>
+    <% events.forEach(function(event) { %>
+        <li>
+            <%= event.title %> - <%= new Date(event.startDate).toLocaleDateString() %> to <%= new Date(event.endDate).toLocaleDateString() %>
+            <!-- Add buttons or links for editing and deleting events -->
+        </li>
+    <% }); %>
+</ul>
+
+<a href="/calendars/<%= calendar._id %>/add-event">Add New Event</a>
+
+<%- include('../partials/footer') %>

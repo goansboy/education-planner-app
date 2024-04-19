@@ -23,8 +23,10 @@ router.post('/register', async (req, res) => {
 });
 
 router.get('/register', (req, res) => {
-    res.render('pages/register', {title: 'Register'})
-})
+    // Ensure a default message is set, even if it's an empty string.
+    res.render('pages/register', { title: 'Register', message: '' });
+});
+
 
 // Login route
 router.post('/login', passport.authenticate('local', {

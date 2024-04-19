@@ -1,0 +1,14 @@
+<!-- /views/calendars/calendarDetail.ejs -->
+<%- include('../partials/header') %>
+
+<h1>Edit Calendar: <%= calendar.name %></h1>
+
+<form action="/calendars/<%= calendar._id %>" method="post">
+    <label for="name">Calendar Name:</label>
+    <input type="text" id="name" name="name" value="<%= calendar.name %>" required>
+    <input type="submit" value="Update Calendar">
+</form>
+
+<a href="/calendars/<%= calendar._id %>/events">Manage Events</a>
+
+<%- include('../partials/footer') %>

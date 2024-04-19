@@ -1,0 +1,21 @@
+<%- include('../partials/header') %>
+
+<h1>Add Event to <%= calendar.name %></h1>
+
+<form action="/calendars/<%= calendar._id %>/events" method="post">
+    <label for="title">Event Title:</label>
+    <input type="text" id="title" name="title" required>
+
+    <label for="startDate">Start Date:</label>
+    <input type="date" id="startDate" name="startDate" required>
+
+    <label for="endDate">End Date:</label>
+    <input type="date" id="endDate" name="endDate" required>
+
+    <label for="description">Description:</label>
+    <textarea id="description" name="description"></textarea>
+
+    <button type="submit">Add Event</button>
+</form>
+
+<%- include('../partials/footer') %>

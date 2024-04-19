@@ -4,11 +4,31 @@
     <h1>Welcome to EduPlanner</h1>
     <% if (user) { %>
         <p>Hello, <%= user.username %>!</p>
+        <div id='calendar'></div> <!-- Container for FullCalendar -->
         <button onclick="window.location.href='/view-calendars'">View Calendars</button>
     <% } else { %>
         <p>Please log in to access your calendars.</p>
         <button onclick="window.location.href='/login'">Login</button>
     <% } %>
 </main>
+
+<!-- FullCalendar scripts -->
+<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.11/index.global.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.11/index.global.min.js'></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var calendarEl = document.getElementById('calendar');
+    var events = <%- JSON.stringify(events || []) %>;;
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+        initialView: 'dayGridMonth',
+        events: events.map(event => ({
+            title: event.title,
+            start: event.startDate,
+            end: event.endDate
+        }))
+    });
+    calendar.render();
+});
+</script>
 
 <%- include('../partials/footer') %>  <!-- Likely includes closing </body> and </html> -->
