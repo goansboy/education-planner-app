@@ -30,6 +30,19 @@ sh
 Copy code
 cd EduPlanner
 Install necessary packages:
+@fullcalendar/core
+@fullcalendar/daygrid
+axios
+bcryptjs
+connect-mongo
+dotenv
+ejs
+express
+express-session
+mongoose
+passport
+passport-local
+eslint
 
 sh
 Copy code
