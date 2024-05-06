@@ -7,8 +7,48 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\calendarRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\viewCalendars.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\pages\\viewCalendars.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\editCalendars.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\pages\\editCalendars.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\index.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\pages\\index.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\addEvent.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\pages\\addEvent.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\calendarDetail.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\pages\\calendarDetail.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\partials\\header.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\partials\\header.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\calendarEvents.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\pages\\calendarEvents.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\middleware\\isAuthenticated.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\middleware\\isAuthenticated.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\authRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -19,40 +59,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\pages\\register.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\middleware\\isAuthenticated.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\middleware\\isAuthenticated.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\index.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\pages\\index.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\models\\Calendars.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\models\\Calendars.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\partials\\header.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\partials\\header.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\.eslintrc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.eslintrc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\viewCalendars.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\pages\\viewCalendars.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\controllers\\calendarController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -78,67 +90,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\index.js",
               "RelativeDocumentMoniker": "src\\routes\\index.js",
               "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\index.js",
               "RelativeToolTip": "src\\routes\\index.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-04-12T16:39:47.775Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "viewCalendars.ejs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\viewCalendars.ejs",
               "RelativeDocumentMoniker": "src\\views\\pages\\viewCalendars.ejs",
               "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\viewCalendars.ejs",
               "RelativeToolTip": "src\\views\\pages\\viewCalendars.ejs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-04-17T01:50:40.384Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Calendars.js",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\models\\Calendars.js",
-              "RelativeDocumentMoniker": "src\\models\\Calendars.js",
-              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\models\\Calendars.js",
-              "RelativeToolTip": "src\\models\\Calendars.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-17T01:13:20.608Z",
+              "DocumentIndex": 5,
+              "Title": "editCalendars.ejs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\editCalendars.ejs",
+              "RelativeDocumentMoniker": "src\\views\\pages\\editCalendars.ejs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\editCalendars.ejs",
+              "RelativeToolTip": "src\\views\\pages\\editCalendars.ejs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-24T21:08:11.194Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "app.js",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\app.js",
-              "RelativeDocumentMoniker": "src\\app.js",
-              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\app.js",
-              "RelativeToolTip": "src\\app.js",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-12T16:39:03.826Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "index.ejs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\index.ejs",
               "RelativeDocumentMoniker": "src\\views\\pages\\index.ejs",
               "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\index.ejs",
               "RelativeToolTip": "src\\views\\pages\\index.ejs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBwAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-04-18T02:54:31.536Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "addEvent.ejs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\addEvent.ejs",
+              "RelativeDocumentMoniker": "src\\views\\pages\\addEvent.ejs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\addEvent.ejs",
+              "RelativeToolTip": "src\\views\\pages\\addEvent.ejs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-19T03:15:44.016Z",
               "IsPinned": true
             },
             {
@@ -149,88 +161,52 @@
               "RelativeDocumentMoniker": "src\\routes\\calendarRoutes.js",
               "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\calendarRoutes.js",
               "RelativeToolTip": "src\\routes\\calendarRoutes.js",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAABQAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-19T03:15:49.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "addEvent.ejs",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\addEvent.ejs",
-              "RelativeDocumentMoniker": "src\\views\\pages\\addEvent.ejs",
-              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\addEvent.ejs",
-              "RelativeToolTip": "src\\views\\pages\\addEvent.ejs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-19T03:15:44.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "register.ejs",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\register.ejs",
-              "RelativeDocumentMoniker": "src\\views\\pages\\register.ejs",
-              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\register.ejs",
-              "RelativeToolTip": "src\\views\\pages\\register.ejs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-19T03:00:58.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "isAuthenticated.js",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\middleware\\isAuthenticated.js",
-              "RelativeDocumentMoniker": "src\\middleware\\isAuthenticated.js",
-              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\middleware\\isAuthenticated.js",
-              "RelativeToolTip": "src\\middleware\\isAuthenticated.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-19T02:31:32.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-04-19T02:31:20.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "authRoutes.js",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\authRoutes.js",
-              "RelativeDocumentMoniker": "src\\routes\\authRoutes.js",
-              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\authRoutes.js",
-              "RelativeToolTip": "src\\routes\\authRoutes.js",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-19T02:29:47.303Z",
+              "WhenOpened": "2024-04-24T21:15:27.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": ".eslintrc.js",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\.eslintrc.js",
-              "RelativeDocumentMoniker": ".eslintrc.js",
-              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\.eslintrc.js",
-              "RelativeToolTip": ".eslintrc.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "isAuthenticated.js",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\middleware\\isAuthenticated.js",
+              "RelativeDocumentMoniker": "src\\middleware\\isAuthenticated.js",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\middleware\\isAuthenticated.js",
+              "RelativeToolTip": "src\\middleware\\isAuthenticated.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-19T00:54:00.026Z"
+              "WhenOpened": "2024-04-19T02:31:32.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T23:43:45.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\app.js",
+              "RelativeDocumentMoniker": "src\\app.js",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\app.js",
+              "RelativeToolTip": "src\\app.js",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-24T21:27:55.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "header.ejs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\partials\\header.ejs",
               "RelativeDocumentMoniker": "src\\views\\partials\\header.ejs",
@@ -242,7 +218,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "calendarDetail.ejs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\calendarDetail.ejs",
+              "RelativeDocumentMoniker": "src\\views\\pages\\calendarDetail.ejs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\calendarDetail.ejs",
+              "RelativeToolTip": "src\\views\\pages\\calendarDetail.ejs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-24T21:38:46.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "authRoutes.js",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\authRoutes.js",
+              "RelativeDocumentMoniker": "src\\routes\\authRoutes.js",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\routes\\authRoutes.js",
+              "RelativeToolTip": "src\\routes\\authRoutes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-19T02:29:47.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "calendarEvents.ejs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\calendarEvents.ejs",
+              "RelativeDocumentMoniker": "src\\views\\pages\\calendarEvents.ejs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\calendarEvents.ejs",
+              "RelativeToolTip": "src\\views\\pages\\calendarEvents.ejs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-22T03:12:43.457Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "register.ejs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\register.ejs",
+              "RelativeDocumentMoniker": "src\\views\\pages\\register.ejs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\views\\pages\\register.ejs",
+              "RelativeToolTip": "src\\views\\pages\\register.ejs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-19T03:00:58.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-19T02:31:20.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".eslintrc.js",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\.eslintrc.js",
+              "RelativeDocumentMoniker": ".eslintrc.js",
+              "ToolTip": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\.eslintrc.js",
+              "RelativeToolTip": ".eslintrc.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-19T00:54:00.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "calendarController.js",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\controllers\\calendarController.js",
               "RelativeDocumentMoniker": "src\\controllers\\calendarController.js",
@@ -254,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\node_modules\\@fullcalendar\\core\\package.json",
               "RelativeDocumentMoniker": "node_modules\\@fullcalendar\\core\\package.json",
@@ -266,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "User.js",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive\\Desktop\\EduPlanner\\src\\models\\User.js",
               "RelativeDocumentMoniker": "src\\models\\User.js",

@@ -2,9 +2,35 @@
   "name": "eduplanner",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "bin": {
+    "edu-planner": "./src/app.js"
+  },
+  "pkg": {
+    "scripts": [
+      "node_modules/axios/**/*.js",
+      "node_modules/bcryptjs/**/*.js",
+      "node_modules/connect-mongo/src/**/*.js",
+      "node_modules/mongoose/**/*.js",
+      "node_modules/passport/**/*.js",
+      "node_modules/passport-local/**/*.js",
+      "node_modules/ejs/**/*.js",
+      "node_modules/express/**/*.js",
+      "node_modules/express-session/**/*.js",
+      "node_modules/bcryptjs/scripts/*.js",
+      "node_modules/ejs/*.js"
+    ],
+    "assets": [
+      "node_modules/axios/**/*.json",
+      "node_modules/ejs/**/*.html",
+      "views/**/*",
+      "public/**/*",
+      "node_modules/ejs/**/*.json"
+    ]
   },
   "keywords": [],
   "author": "",

@@ -5,7 +5,7 @@
     <% if (typeof calendars !== 'undefined' && calendars.length > 0) { %>
         <% calendars.forEach(function(calendar) { %>
             <li>
-                <input type="checkbox" id="cal<%= calendar._id %>" name="calendar" value="<%= calendar._id %>">
+                
                 <label for="cal<%= calendar._id %>"><%= calendar.name %></label>
             </li>
         <% }); %>
