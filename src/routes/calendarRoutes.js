@@ -10,7 +10,8 @@ router.get('/view-calendars', isAuthenticated, async (req, res) => {
         const calendars = await Calendar.find({ owner: req.user._id }).exec();
         console.log("Calendars fetched: ", calendars);
         if (!calendars || calendars.length === 0) {
-            return res.status(404).render('errorPage', { message: 'No calendars found' });
+            // Redirect to a page where the user can add a calendar
+            return res.redirect('/edit-calendars');
         }
         res.render('pages/viewCalendars', {
             title: 'View Your Calendars - EduPlanner',

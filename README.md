@@ -51,16 +51,14 @@ Set up your environment variables:
 
 Create a .env file in the root directory.
 Add the following lines, updated with your details:
-makefile
-Copy code
+
 MONGODB_URI=your_mongodb_connection_string
 PORT=3000
 Start the server:
 
-sh
-Copy code
-npm start
-Usage
+open command terminal
+cd to the src folder in eduPlanner
+node app.js
 Navigate to http://localhost:3000 in your browser to start using EduPlanner.
 
 Contributing
